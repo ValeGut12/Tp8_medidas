@@ -238,8 +238,11 @@ Configuración usada:
 
 ## Autores
 
-Completar con los autores del trabajo.
+Estudiantes de Ingeniería Electrónica de la Universidad Tecnológica Nacional, Facultad Regional Córdoba (UTN FRC):
 
-## Licencia
+* Alvarez, Thomas Alejandro
+* Gutiérrez, Valentina
+* Ressia, Lorenzo
 
-Completar con la licencia elegida para el repositorio.
+Trabajo realizado para la cátedra Medidas Electrónicas I, año 2026.
+
